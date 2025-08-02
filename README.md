@@ -36,11 +36,11 @@ Este proyecto es un sistema de ventas básico desarrollado con **Java**, **Sprin
 │   │       └── application.properties
 ├── pom.xml
 ```
-👨‍💻 Autor
-Cristian Huarcaya Pumahualcca
-Desarrollador Backend en Java
-LinkedIn | GitHub
+## 👨‍💻 Autor
 
+**Cristian Huarcaya Pumahualcca**  
+Desarrollador Backend en Java  
+[LinkedIn](https://www.linkedin.com/in/christian-huarcaya-pumahualcca) | [GitHub](https://github.com/ChristianHuarcaya)
 
 
 
