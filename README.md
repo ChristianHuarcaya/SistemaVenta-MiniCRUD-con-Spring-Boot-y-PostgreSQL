@@ -36,20 +36,12 @@ Este proyecto es un sistema de ventas básico desarrollado con **Java**, **Sprin
 │   │       └── application.properties
 ├── pom.xml
 ```
-▶️ Cómo ejecutar
-Clona el proyecto:
-
-
-git clone https://github.com/ChristianHuarcaya/SistemaVenta-MiniCRUD-con-Spring-Boot-y-PostgreSQL.git
-
-Abre el proyecto en tu IDE preferido.
-
-
-
 👨‍💻 Autor
 Cristian Huarcaya Pumahualcca
 Desarrollador Backend en Java
 LinkedIn | GitHub
+
+
 
 
 
